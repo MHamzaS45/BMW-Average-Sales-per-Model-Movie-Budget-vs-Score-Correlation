@@ -6,7 +6,7 @@ The following lists work done on 2 different tasks
 2. Analysing correlation between movie budgets and scores. Are higher budget movies better rated?
 
 ## Tech Stack
-1. Python 3.4x
+1. Python 3.11x
 2. Libraries (Seaborn, NumPy, Matplotlib, Kaggle, CSV, Pandas)
 3. Documentation: Jpter Notebook
 
